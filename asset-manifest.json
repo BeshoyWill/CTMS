@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/BeshoyWill/Job-Task/static/css/main.6ca01da4.css",
-    "main.js": "/BeshoyWill/Job-Task/static/js/main.c480836a.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/BeshoyWill/Job-Task/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/BeshoyWill/Job-Task/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/BeshoyWill/Job-Task/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/BeshoyWill/Job-Task/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/BeshoyWill/Job-Task/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/BeshoyWill/Job-Task/index.html",
-    "main.6ca01da4.css.map": "/BeshoyWill/Job-Task/static/css/main.6ca01da4.css.map",
-    "main.c480836a.js.map": "/BeshoyWill/Job-Task/static/js/main.c480836a.js.map"
+    "main.css": "/Job-Task/static/css/main.72f8bf5d.css",
+    "main.js": "/Job-Task/static/js/main.c480836a.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Job-Task/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Job-Task/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Job-Task/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Job-Task/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Job-Task/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Job-Task/index.html",
+    "main.72f8bf5d.css.map": "/Job-Task/static/css/main.72f8bf5d.css.map",
+    "main.c480836a.js.map": "/Job-Task/static/js/main.c480836a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ca01da4.css",
+    "static/css/main.72f8bf5d.css",
     "static/js/main.c480836a.js"
   ]
 }
